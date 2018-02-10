@@ -1,0 +1,25 @@
+/* Color Palette: http://www.colourlovers.com/palette/4554963/Brights_for_tyres */
+
+body {
+    background-color: #7EB02D;
+    color: #DBD02D;
+    font-family: 'Righteous', sans-serif;
+    font-size: 10vh;
+    height: 100vh;
+    min-height: 100%;
+    text-align: center;
+    width: 100vw;
+}
+
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    margin-bottom: 0.25em;
+}
+
+img {
+    width: 50vh;
+}
